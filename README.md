@@ -4,8 +4,9 @@
 
 <details>
 <summary>Features:</summary>
-  1.
-  2.
-  3.
-  4.
+  
+  1. Scrollable screen
+  2. Messages are created based on the ink file
+  3. Ellipses before showing the message
+  
  </details>
